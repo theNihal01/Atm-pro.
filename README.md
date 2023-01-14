@@ -1,2 +1,0 @@
-# Atm-pro.
-ghfd
